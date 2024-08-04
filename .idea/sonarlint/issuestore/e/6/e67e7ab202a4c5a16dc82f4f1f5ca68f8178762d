@@ -1,0 +1,15 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Ñ£âüüÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(Áˆ¢ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(­Ó¢¬
+@	java:S106"+Replace this use of System.out by a logger.(ÚäÏß
+E	java:S106 "+Replace this use of System.out by a logger.(ù›ñùÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(ÿåöìıÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(¿ß Ï
+E	java:S106/"+Replace this use of System.out by a logger.(òáÏşÿÿÿÿ
+@	java:S1065"+Replace this use of System.out by a logger.(ÕŠçä
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

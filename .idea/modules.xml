@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../parkingLotAprJun23/parkingLotAprJun23.iml" filepath="$PROJECT_DIR$/../parkingLotAprJun23/parkingLotAprJun23.iml" />
       <module fileurl="file://$PROJECT_DIR$/scalerBackendLLDAprJun23.iml" filepath="$PROJECT_DIR$/scalerBackendLLDAprJun23.iml" />
     </modules>
   </component>

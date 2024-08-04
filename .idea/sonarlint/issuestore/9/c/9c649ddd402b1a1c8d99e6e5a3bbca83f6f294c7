@@ -1,0 +1,6 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¥ëòûÿÿÿÿJ$399a8063-8616-4d2d-85ed-61c5e7bda41e
+Œ	java:S116"QRename this field "DBname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝóöÙJ$397925ef-5271-4c27-a89d-696c62de6f2c
+Ž	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ðí¢ÍJ$edda289f-95d4-47fa-abec-404cbeccd6ec
+Ú
+java:S6548	"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¥”¡¢ÿÿÿÿÿJ$2d0708be-f9c2-4a9b-b6c4-64a6ac99b65a

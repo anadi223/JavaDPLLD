@@ -1,0 +1,27 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯î›ƒøÿÿÿÿJ$d9d69e16-a08e-4c25-a12a-7567eb2302f7
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä–»’şÿÿÿÿJ$bda651c0-2474-44f2-a120-ad3c9f716bea
+{
+java:S1118":Add a private constructor to hide the implicit public one.(Ä–»’şÿÿÿÿJ$0bd915ed-4fb3-4f57-adad-118b961fec80
+q
+java:S1854"5Remove this useless assignment to local variable "r".(É÷€‘J$eba971df-0936-4843-9281-b5038756993f
+x
+java:S1854"<Remove this useless assignment to local variable "newWords".(§ê‡J$42bc4764-d233-4b0b-9498-66eb0b15d1a9
+v	java:S125"<This block of commented-out lines of code should be removed.(ó¸EJ$d905f555-8820-45fe-bd4e-2b5240d9950e
+i
+java:S1481"-Remove this unused "newWords" local variable.(§ê‡J$89753851-f264-48cf-bcb2-9a83e0e44a21
+f	java:S106"+Replace this use of System.out by a logger.(É÷€‘J$8ae30bf0-9a18-43c5-92d5-603659514372
+b
+java:S1481"&Remove this unused "r" local variable.(É÷€‘J$36ce5949-74ce-4ec6-aeca-2d45325f2472
+k	java:S106"+Replace this use of System.out by a logger.(İ§øÿÿÿÿJ$ff857a3e-676c-42bd-aa97-dbf3f974fddf
+k	java:S106"+Replace this use of System.out by a logger.(§Ê¤ÏıÿÿÿÿJ$2868e875-59a3-4e83-932d-e6d1abfbc6c8
+k	java:S106""+Replace this use of System.out by a logger.(¦Í€øÿÿÿÿJ$e3face01-9018-490a-bfdf-904b34d18d40
+¶
+java:S6204#"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(Ë½»¨J$2c8bf888-eb11-4aea-8007-03c65b7f2381
+e	java:S106$"+Replace this use of System.out by a logger.(ü„ê!J$f7936583-e7b0-4561-9aa5-9b82282a0725
+k	java:S106%"+Replace this use of System.out by a logger.(Å˜õçüÿÿÿÿJ$2480dea6-0d43-4ac3-81c0-6b2f8487bae4
+f	java:S106)"+Replace this use of System.out by a logger.(×•œ²J$24856234-90ba-4336-bd3b-8d83448aaadd
+f	java:S106-"+Replace this use of System.out by a logger.(Ö¯§œJ$a31559a2-ba20-4383-bdcb-1d40500f033f
+k	java:S106/"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$f06c5c9d-ba3b-4f53-886a-60d8806d072f
+p
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”J$e4432098-be24-4a47-8233-f703c6307f86

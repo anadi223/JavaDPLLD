@@ -1,0 +1,23 @@
+
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğïƒù
+C
+java:S1604"(Make this anonymous inner class a lambda(çÆÁ”şÿÿÿÿ
+>
+java:S1604!"(Make this anonymous inner class a lambda(ğïƒù
+>
+java:S1604*"(Make this anonymous inner class a lambda(°Ã¤ß
+U
+java:S1854":Remove this useless assignment to local variable "dIntf2".(İìıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(‰º»ï
+E	java:S106"+Replace this use of System.out by a logger.(É¹³îüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(õŸ¿¦
+E	java:S106"+Replace this use of System.out by a logger.(ŒÉ¸õıÿÿÿÿ
+F
+java:S1481"+Remove this unused "dIntf2" local variable.(İìıÿÿÿÿ
+g
+java:S4276!"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ğïƒù
+E	java:S106$"+Replace this use of System.out by a logger.(úĞßêøÿÿÿÿ
+h
+java:S4276*"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(°Ã¤ß
+E	java:S1061"+Replace this use of System.out by a logger.(€óˆ ùÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(øæªÚüÿÿÿÿ

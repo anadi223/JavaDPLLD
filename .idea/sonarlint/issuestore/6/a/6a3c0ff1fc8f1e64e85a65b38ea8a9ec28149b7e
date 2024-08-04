@@ -1,0 +1,6 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¥ëòûÿÿÿÿJ$27c21726-d67a-4435-bfd8-b1f558dc5a28
+Œ	java:S116"QRename this field "DBname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝóöÙJ$25235555-eb89-4bd3-84cb-136393fcab70
+Ž	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ðí¢ÍJ$9ee3f69e-ad5f-4840-9aec-247b639edcab
+u
+java:S2168"9Remove this dangerous instance of double-checked locking.(”Ã‡ýJ$83e33b46-3a53-4f11-89cd-15a77516aa33

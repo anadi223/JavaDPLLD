@@ -1,0 +1,15 @@
+
+‡
+java:S1192"FDefine a constant instead of duplicating this literal "April" 3 times.(¸™¯„ûÿÿÿÿJ$0ddd12bb-447c-43c3-89fc-0b1e61b56011
+’
+java:S1192"QDefine a constant instead of duplicating this literal "AprilIntelligent" 3 times.(ğïÕƒüÿÿÿÿJ$6008db1a-0660-4c11-8b68-c2d77c454173
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È›ó„J$237f24fe-88ab-42bc-9835-2a0f2cb900e4
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±†²»ÿÿÿÿÿJ$6a2570d9-6c1c-4c46-96a6-5435e0ebdf5f
+Œ	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªáŠJ$6f892c32-d852-4717-99e1-94c156a2394f
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¹¤J$dbb18d25-0932-4ea1-9e97-08bef1fb49f3
+}
+java:S1854)"<Remove this useless assignment to local variable "srikanth".(²úÎ‹ùÿÿÿÿJ$c1c9cdea-65c9-4e59-88b6-92847ce07a0e
+n
+java:S1481)"-Remove this unused "srikanth" local variable.(²úÎ‹ùÿÿÿÿJ$7084df14-d701-4244-9efd-5e8329071bf6
+f	java:S106-"+Replace this use of System.out by a logger.(£ÆÏÁJ$deb251f7-f884-4da8-ab1e-2d3bb3b5d33a

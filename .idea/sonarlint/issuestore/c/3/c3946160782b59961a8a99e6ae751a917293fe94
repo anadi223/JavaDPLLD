@@ -1,0 +1,19 @@
+
+m
+java:S1192"RDefine a constant instead of duplicating this literal "Hello World from " 3 times.(‡è†àıÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(Ğ±ïã
+>
+java:S1604"(Make this anonymous inner class a lambda(ÿïŞß
+V	java:S125"<This block of commented-out lines of code should be removed.(äÌ„µûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(‡è†àıÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(‡è†àıÿÿÿÿ
+G
+java:S1602'",Remove useless curly braces around statement(æ½®ùÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(—šÆ­ÿÿÿÿÿ
+Q
+java:S1128"6Remove this unused import 'ProducerConsumer.Consumer'.(İ’æ€ÿÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+U
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ

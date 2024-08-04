@@ -1,0 +1,41 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¥ëòûÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "db9".(µÞþ˜
+R
+java:S1854"7Remove this useless assignment to local variable "db8".(Ø­ºƒúÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "db7".(ÑÔÁ°
+M
+java:S1854"7Remove this useless assignment to local variable "db6".(œ÷º’
+M
+java:S1854"7Remove this useless assignment to local variable "db5".(Ë«º
+R
+java:S1854
+"7Remove this useless assignment to local variable "db4".(¡Ÿßéûÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "db3".(‚Í´ü
+M
+java:S1854"7Remove this useless assignment to local variable "db2".(ë«ëý
+R
+java:S1854"7Remove this useless assignment to local variable "db1".(Äú¤úÿÿÿÿ
+C
+java:S1481"(Remove this unused "db1" local variable.(Äú¤úÿÿÿÿ
+>
+java:S1481"(Remove this unused "db2" local variable.(ë«ëý
+>
+java:S1481"(Remove this unused "db3" local variable.(‚Í´ü
+C
+java:S1481
+"(Remove this unused "db4" local variable.(¡Ÿßéûÿÿÿÿ
+>
+java:S1481"(Remove this unused "db5" local variable.(Ë«º
+>
+java:S1481"(Remove this unused "db6" local variable.(œ÷º’
+>
+java:S1481"(Remove this unused "db7" local variable.(ÑÔÁ°
+C
+java:S1481"(Remove this unused "db8" local variable.(Ø­ºƒúÿÿÿÿ
+>
+java:S1481"(Remove this unused "db9" local variable.(µÞþ˜
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
